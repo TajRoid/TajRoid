@@ -7,10 +7,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=TajRoid&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TajRoid&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TajRoid&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TajRoid&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-<!--
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
